@@ -1,6 +1,6 @@
 # client_waves
 
-Клиент для работы с ассетом "МИР" в сети waves
+Клиент для работы с ассетом "МИР" в сети Waves
 </br>
 <p align="center">
   <img src="https://github.com/mir-one/client_waves/blob/master/wallet.png">
