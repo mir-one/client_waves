@@ -3,7 +3,7 @@
 Клиент для работы с ассетом "МИР" в сети waves
 </br>
 <p align="center">
-  <img src="https://github.com/mir-one/client_waves/blob/master/client.png">
+  <img src="https://github.com/mir-one/client_waves/blob/master/wallet.png">
 </p>
 
 * Загрузите и распакуйте zip в любой каталог
